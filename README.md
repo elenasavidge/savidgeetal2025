@@ -38,5 +38,8 @@ The following external datasets were used:
 - **High-resolution Antarctic coastline (BAS)**  
   https://data.bas.ac.uk/items/e46be5bc-ef8e-4fd5-967b-92863fbe2835/
 
+- **Effective surface strain rate data from Joughin et al. (2021)**  
+  https://data.bas.ac.uk/items/e46be5bc-ef8e-4fd5-967b-92863fbe2835](https://www.science.org/doi/full/10.1126/sciadv.abg3080?stream=top&utm_campaign=newsletter_axiosgenerate&utm_medium=email&utm_source=newsletter&intcmp=trendmd-adv)/
+
 
 
