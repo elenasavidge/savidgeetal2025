@@ -9,7 +9,7 @@ Python notebooks and data to reproduce figures from:
 
 ## Contents
 
-- Reproducible Python notebooks for **Figures 1–5**
+- Reproducible Python notebooks for **Figures 1–5, and Supplemental Figures S1-S2, S4-S5**
 - Code for **Supplemental Figure S3**
 - Shapefiles used for:
   - Traced deformation  
